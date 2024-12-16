@@ -14,3 +14,8 @@ URL: https://github.com/SHUNNTARO/my-resume
 Spring Bootでタスク管理のできるWebアプリケーションを作成しました。
 
 URL: https://github.com/SHUNNTARO/itmBySpringBoot
+
+## Omikuji
+チーム開発でおみくじを作成しました
+
+URL: https://github.com/TeamDevelopment-C/Omikuji
