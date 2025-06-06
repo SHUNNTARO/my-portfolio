@@ -23,3 +23,7 @@ URL: https://github.com/TeamDevelopment-C/Omikuji
 ## Server-side development with Gin
 
 https://github.com/SHUNNTARO/web-API-by-Golang
+
+## Library-App
+
+https://github.com/SHUNNTARO/Library-App
